@@ -17,7 +17,6 @@ Reference: https://github.com/DataTalksClub/project-of-the-week/blob/main/2023-0
 * Create a GitHub repository.
 * Run your first workflow through Quickstart.
 * Study the concepts behind Github Actions.
-* Share your progress in Slack and on social media.
 
 
 Suggested materials
@@ -33,7 +32,6 @@ Suggested materials
 * Study about Triggering a workflow. You can check as well this GitHub Actions Tutorial.
 * Check suggested material related to building and testing.
 * Commit your changes.
-* Share your progress in Slack and on social media.
 
 
 Suggested materials
@@ -48,7 +46,6 @@ Suggested materials
 
 * Create your own project that you will use for testing (See suggestions bellow). You can use a Machine Learning project from previous project-of-the-week. If you want to create your own, we have a list of some datasets for you to use.
 * Commit your changes.
-* Share your progress in Slack and on social media.
 
 
 Suggested materials
@@ -62,8 +59,6 @@ Suggested materials
 * Finish your project set-up.
 * Create your linters and tests. (see suggestions bellow) 
 * Commit your changes.
-* Share your progress in Slack and on social media.
-
 
 Suggested materials
 * 📺 [Testing code with pytest](https://www.youtube.com/watch?v=CJp1eFQP5nk&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
@@ -77,7 +72,6 @@ Suggested materials
 * Edit your GitHub workflow according to GitHub actions guide. (make sure pushing a change triggers the workflow).
 * Push example changes from your code and check your linters and tests.
 * Commit your changes.
-* Share your progress in Slack and on social media.
 
 
 Suggested materials
@@ -95,7 +89,6 @@ Suggested materials
 * Make sure pushing a change triggers the workflow
 * Make more examples that check your linters and tests.
 * Commit your changes.
-* Share your progress in Slack and on social media.
 
 
 Suggested materials
@@ -109,9 +102,6 @@ Suggested materials
 - Continue exploring more about this topic
 - Polish the documentation for your project
 - Push your changes to GitHub
-- Share your progress in Slack and on social media
-- Give us feedback
-- Add the link to your project to this project of the week github page
 
 ## Other useful materials 
 
